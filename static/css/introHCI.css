@@ -9,12 +9,25 @@
 	color: #CC00AA;
 }
 
+p{
+     font-variant:small-caps;
+}
+
+#project1{
+     font-variant:small-caps;
+}
+
+.project{
+     margin-left: 150px;
+     background-color: #8888FF;
+     padding: 60px;
+     width: 800px;
+}
+
+
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
-body {
-     border: 1px dotted gray;
-     padding: 20px;
-}
+
 
 .jumbotron {
 	position: relative;
